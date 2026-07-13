@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.0.33",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.33/app-release.apk",
-  "notes": "Card do motor deixa claro quando ele está delegado ao foreground service — não é falha, é design pra evitar disparo em duplicidade."
+  "versionCode": 41,
+  "versionName": "0.0.41",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.41/app-release.apk",
+  "notes": "Motor de automações redondo com app fechado: cache persistente de localização, janela de graça de 5min, anti-duplicação por dia, auto-reset ao editar automação, prefs.reload cross-isolate."
 }
