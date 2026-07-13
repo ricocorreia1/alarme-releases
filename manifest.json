@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "0.0.25",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.25/app-release.apk",
-  "notes": "Câmera do QR scanner volta a abrir em release (ProGuard rules pro mobile_scanner + ML Kit). Toda notificação é registrada em Eventos além do que já aparecia."
+  "versionCode": 26,
+  "versionName": "0.0.26",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.26/app-release.apk",
+  "notes": "Notificação push quando o alarme é armado/desarmado por outra fonte (controle, teclado, nuvem). Filtro: mudanças feitas pelo próprio app não geram push."
 }
