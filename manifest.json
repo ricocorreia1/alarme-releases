@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.0.24",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.24/app-release.apk",
-  "notes": "Notificação push quando master_state muda (normal ↔ alarm). Corrige bug que confundia master_state com master_mode."
+  "versionCode": 25,
+  "versionName": "0.0.25",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.25/app-release.apk",
+  "notes": "Câmera do QR scanner volta a abrir em release (ProGuard rules pro mobile_scanner + ML Kit). Toda notificação é registrada em Eventos além do que já aparecia."
 }
