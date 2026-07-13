@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "0.0.23",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.23/app-release.apk",
-  "notes": "Ajuda embutida (features + guia Tuya), Estado principal em destaque na tela Alarme, R8 minify + shrink + Flutter obfuscate."
+  "versionCode": 24,
+  "versionName": "0.0.24",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.24/app-release.apk",
+  "notes": "Notificação push quando master_state muda (normal ↔ alarm). Corrige bug que confundia master_state com master_mode."
 }
