@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "0.0.30",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.30/app-release.apk",
-  "notes": "Foreground service agora inicializa o binding do Flutter no isolate — sem isso o SecureConfig não retornava e o controller ficava null pra sempre. Automações e notificações por outra fonte voltam a funcionar com app fechado."
+  "versionCode": 31,
+  "versionName": "0.0.31",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.31/app-release.apk",
+  "notes": "Foreground service não crasha mais ao inicializar notificações no isolate (Context null no requestNotificationsPermission). Log em ordem cronológica real e snackbar mostra tamanho copiado."
 }
