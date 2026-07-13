@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.0.18",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.18/app-release.apk",
-  "notes": "Foreground service agora sobrevive ao swipe do app pelos recents."
+  "versionCode": 19,
+  "versionName": "0.0.19",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.19/app-release.apk",
+  "notes": "Notificação push toda vez que a central manda uma nova mensagem (alerta do sistema)."
 }
