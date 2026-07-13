@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "0.0.42",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.42/app-release.apk",
-  "notes": "Sirene do celular quando o alarme dispara: sirene police-style (600↔1400Hz) toca em loop no stream ALARM, notificação com fullScreen abre o app ao desbloquear, botão Silenciar. Para automaticamente ao desarmar ou depois do tempo em Central → Duração da sirene. Testar em Central → Sirene do celular."
+  "versionCode": 43,
+  "versionName": "0.0.43",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.43/app-release.apk",
+  "notes": "Sirene para na hora ao desarmar (não espera polling). Botões da notificação (Silenciar/Desarmar) funcionam mesmo com app fechado via SharedPreferences signal + poll 800ms no foreground."
 }
