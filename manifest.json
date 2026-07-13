@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.0.27",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.27/app-release.apk",
-  "notes": "QR de compartilhar acesso agora centralizado horizontal e verticalmente."
+  "versionCode": 28,
+  "versionName": "0.0.28",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.28/app-release.apk",
+  "notes": "Ações inteligentes agora rodam com app fechado: foreground service recarrega o AutomationStore a cada tick, vendo automações criadas/editadas depois do serviço subir."
 }
