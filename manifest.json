@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "0.0.26",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.26/app-release.apk",
-  "notes": "Notificação push quando o alarme é armado/desarmado por outra fonte (controle, teclado, nuvem). Filtro: mudanças feitas pelo próprio app não geram push."
+  "versionCode": 27,
+  "versionName": "0.0.27",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.27/app-release.apk",
+  "notes": "QR de compartilhar acesso agora centralizado horizontal e verticalmente."
 }
