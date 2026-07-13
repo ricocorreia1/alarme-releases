@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.0.17",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.17/app-release.apk",
-  "notes": "OTA, login por QR e monitoramento em background com foreground service."
+  "versionCode": 18,
+  "versionName": "0.0.18",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.18/app-release.apk",
+  "notes": "Foreground service agora sobrevive ao swipe do app pelos recents."
 }
