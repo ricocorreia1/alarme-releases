@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "0.0.22",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.22/app-release.apk",
-  "notes": "Canais de notificação v2 (vibração longa fixada) + verificação de atualização também ao voltar do background."
+  "versionCode": 23,
+  "versionName": "0.0.23",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.23/app-release.apk",
+  "notes": "Ajuda embutida (features + guia Tuya), Estado principal em destaque na tela Alarme, R8 minify + shrink + Flutter obfuscate."
 }
