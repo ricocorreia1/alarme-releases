@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "0.0.29",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.29/app-release.apk",
-  "notes": "Log das automações agora mostra o que o foreground service faz (linhas [F]) — pra diagnosticar automações/notificações que não disparam com app fechado."
+  "versionCode": 30,
+  "versionName": "0.0.30",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.30/app-release.apk",
+  "notes": "Foreground service agora inicializa o binding do Flutter no isolate — sem isso o SecureConfig não retornava e o controller ficava null pra sempre. Automações e notificações por outra fonte voltam a funcionar com app fechado."
 }
