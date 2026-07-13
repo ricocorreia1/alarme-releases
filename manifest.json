@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "0.0.28",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.28/app-release.apk",
-  "notes": "Ações inteligentes agora rodam com app fechado: foreground service recarrega o AutomationStore a cada tick, vendo automações criadas/editadas depois do serviço subir."
+  "versionCode": 29,
+  "versionName": "0.0.29",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.29/app-release.apk",
+  "notes": "Log das automações agora mostra o que o foreground service faz (linhas [F]) — pra diagnosticar automações/notificações que não disparam com app fechado."
 }
