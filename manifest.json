@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "0.0.32",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.32/app-release.apk",
-  "notes": "Botão de limpar o log agora sincroniza entre os dois isolates via SharedPreferences — antes o foreground reescrevia o arquivo cheio no próximo tick."
+  "versionCode": 33,
+  "versionName": "0.0.33",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.33/app-release.apk",
+  "notes": "Card do motor deixa claro quando ele está delegado ao foreground service — não é falha, é design pra evitar disparo em duplicidade."
 }
