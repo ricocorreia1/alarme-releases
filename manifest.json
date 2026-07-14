@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "0.1.5",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.5/app-release.apk",
-  "notes": "Nova tela 'Sensores' em Central: lista sub-devices vinculados à central (portas/janelas, movimento, controles, teclado, sirene, etc) com online/offline e última atualização."
+  "versionCode": 54,
+  "versionName": "0.1.6",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.6/app-release.apk",
+  "notes": "Sensores: tenta 3 endpoints (v1.0, v2.0/thing, v2.0/devices) porque a Tuya reorganizou a API. Botão 'Copiar diagnóstico' na tela vazia pra ver o JSON cru e decidir o parser."
 }
