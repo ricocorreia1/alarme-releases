@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "0.0.43",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.43/app-release.apk",
-  "notes": "Sirene para na hora ao desarmar (não espera polling). Botões da notificação (Silenciar/Desarmar) funcionam mesmo com app fechado via SharedPreferences signal + poll 800ms no foreground."
+  "versionCode": 46,
+  "versionName": "0.0.46",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.46/app-release.apk",
+  "notes": "Botões da notificação (Silenciar/Desarmar/Armar) funcionam agora — bug era receivers do plugin faltando no AndroidManifest. Sirene para na hora ao desarmar (não espera Tuya). Polling do foreground caiu de 15s pra 5s pra detectar disparo mais rápido."
 }
