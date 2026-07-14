@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "0.1.3",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.3/app-release.apk",
-  "notes": "Prompt de atualização não empilha nem reaparece durante o download. Um flag bloqueia recheck enquanto usuário está na tela de OTA ou com dialog aberto."
+  "versionCode": 52,
+  "versionName": "0.1.4",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.4/app-release.apk",
+  "notes": "Toggle 'Tocar sirene ao disparar' em Central. Modo silencioso: notificação chega mas o celular fica quieto."
 }
