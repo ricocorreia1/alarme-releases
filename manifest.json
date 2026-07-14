@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "0.1.4",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.4/app-release.apk",
-  "notes": "Toggle 'Tocar sirene ao disparar' em Central. Modo silencioso: notificação chega mas o celular fica quieto."
+  "versionCode": 53,
+  "versionName": "0.1.5",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.5/app-release.apk",
+  "notes": "Nova tela 'Sensores' em Central: lista sub-devices vinculados à central (portas/janelas, movimento, controles, teclado, sirene, etc) com online/offline e última atualização."
 }
