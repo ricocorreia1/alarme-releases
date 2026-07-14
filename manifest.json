@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "0.1.1",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.1/app-release.apk",
-  "notes": "Volume do stream ALARM sobe pra máx quando alarme dispara (via MethodChannel Kotlin). Se estava tocando com celular bloqueado, sobe ao desbloquear. Seção 'Sobre notificações' removida de Ajustes (estava desatualizada)."
+  "versionCode": 50,
+  "versionName": "0.1.2",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.2/app-release.apk",
+  "notes": "Serviço sobrevive à noite: pede isenção de otimização de bateria ao ligar (Android não mata mais em Doze). Autostart após reboot do celular: receiver de BOOT_COMPLETED registrado. Card 'Bateria: sem restrições' em Ajustes."
 }
