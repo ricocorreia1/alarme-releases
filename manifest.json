@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "0.1.7",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.7/app-release.apk",
-  "notes": "Diagnóstico de sensores agora dumpa specifications + status completo — para centrais RF (433MHz) onde os sensores viram datapoints internos, não sub-devices."
+  "versionCode": 56,
+  "versionName": "0.1.8",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.8/app-release.apk",
+  "notes": "Sensores pareados à central PG103/PG105/PG106/PG107/PG109 agora aparecem! Parser custom decodifica o datapoint sub_admin (binário base64 + nomes UTF-16 BE) com nome, categoria e zona."
 }
