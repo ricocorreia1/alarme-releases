@@ -1,6 +1,6 @@
 {
   "versionCode": 47,
-  "versionName": "0.0.47",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.47/app-release.apk",
-  "notes": "Sirene sincronizada com o alerta visual: pre-warm do audio player no boot do foreground service + start em paralelo com a notificação. Sem gap perceptível. Tick voltou pra 15s (era 5s desnecessário)."
+  "versionName": "0.1.0",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.0/app-release.apk",
+  "notes": "Primeira release 0.1.0 — feature completa de sirene quando o alarme dispara, botões da notificação funcionando (Silenciar/Desarmar), monitor rodando com app fechado e todas as automações validadas em teste real."
 }
