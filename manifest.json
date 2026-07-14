@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "0.1.8",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.8/app-release.apk",
-  "notes": "Sensores pareados à central PG103/PG105/PG106/PG107/PG109 agora aparecem! Parser custom decodifica o datapoint sub_admin (binário base64 + nomes UTF-16 BE) com nome, categoria e zona."
+  "versionCode": 57,
+  "versionName": "0.1.9",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.9/app-release.apk",
+  "notes": "Tela de sensores com layout consistente. Parser tenta 4 variantes de formato do sub_admin e escolhe a que dá nomes mais legiveis. Botao de diagnostico agora sempre visivel no topo."
 }
