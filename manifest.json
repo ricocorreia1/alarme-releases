@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "0.0.46",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.46/app-release.apk",
-  "notes": "Botões da notificação (Silenciar/Desarmar/Armar) funcionam agora — bug era receivers do plugin faltando no AndroidManifest. Sirene para na hora ao desarmar (não espera Tuya). Polling do foreground caiu de 15s pra 5s pra detectar disparo mais rápido."
+  "versionCode": 47,
+  "versionName": "0.0.47",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.0.47/app-release.apk",
+  "notes": "Sirene sincronizada com o alerta visual: pre-warm do audio player no boot do foreground service + start em paralelo com a notificação. Sem gap perceptível. Tick voltou pra 15s (era 5s desnecessário)."
 }
