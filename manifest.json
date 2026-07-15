@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "0.2.0",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.0/app-release.apk",
-  "notes": "Fase 1 do MQTT tempo real: botao 'Testar config MQTT (exp)' em Log das automacoes."
+  "versionCode": 59,
+  "versionName": "0.2.1",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.1/app-release.apk",
+  "notes": "Fase 2 MQTT: botao Conectar MQTT (90s) em Log das automacoes."
 }
