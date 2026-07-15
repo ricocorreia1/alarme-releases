@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "0.2.4",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.4/app-release.apk",
-  "notes": "Log completo do envelope MQTT sem truncar + AAD correto no AES-GCM."
+  "versionCode": 63,
+  "versionName": "0.2.5",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.5/app-release.apk",
+  "notes": "MQTT decrypt funcionando (AES-GCM com AAD=t). Eventos em tempo real."
 }
