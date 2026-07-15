@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "0.2.7",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.7/app-release.apk",
-  "notes": "UI reage instantâneo via MQTT + ícones certos (porta/janela/alçapão)."
+  "versionCode": 66,
+  "versionName": "0.2.8",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.8/app-release.apk",
+  "notes": "MQTT 24/7 no serviço + polling só 5min como fallback. Bateria/quota bem melhor."
 }
