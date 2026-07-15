@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "0.1.9",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.1.9/app-release.apk",
-  "notes": "Tela de sensores com layout consistente. Parser tenta 4 variantes de formato do sub_admin e escolhe a que dá nomes mais legiveis. Botao de diagnostico agora sempre visivel no topo."
+  "versionCode": 58,
+  "versionName": "0.2.0",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.0/app-release.apk",
+  "notes": "Fase 1 do MQTT tempo real: botao 'Testar config MQTT (exp)' em Log das automacoes."
 }
