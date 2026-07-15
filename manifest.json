@@ -1,6 +1,6 @@
 {
-  "versionCode": 66,
-  "versionName": "0.2.8",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.8/app-release.apk",
-  "notes": "MQTT 24/7 no serviço + polling só 5min como fallback. Bateria/quota bem melhor."
+  "versionCode": 67,
+  "versionName": "0.2.9",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.9/app-release.apk",
+  "notes": "WifiLock ativado + heartbeat pra saber se/quando o Samsung mata o serviço."
 }
