@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "0.2.3",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.3/app-release.apk",
-  "notes": "Fase 3.1 MQTT: tenta 5 variantes de chave AES em cascata."
+  "versionCode": 62,
+  "versionName": "0.2.4",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.4/app-release.apk",
+  "notes": "Log completo do envelope MQTT sem truncar + AAD correto no AES-GCM."
 }
