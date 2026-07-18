@@ -1,6 +1,6 @@
 {
-  "versionCode": 71,
-  "versionName": "0.2.13",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.13/app-release.apk",
-  "notes": "Logs persistem 100% após qualquer kill. Agora dá pra ver o que aconteceu de madrugada."
+  "versionCode": 72,
+  "versionName": "0.2.14",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.14/app-release.apk",
+  "notes": "Filtros no log: origem, presets e busca. Facilita diagnóstico."
 }
