@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "0.2.14",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.14/app-release.apk",
-  "notes": "Filtros no log: origem, presets e busca. Facilita diagnóstico."
+  "versionCode": 73,
+  "versionName": "0.2.15",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.15/app-release.apk",
+  "notes": "targetSdk=28 (mesmo do Wave). Escapa das restrições de background do Android 12+."
 }
