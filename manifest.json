@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "0.2.15",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.15/app-release.apk",
-  "notes": "targetSdk=28 (mesmo do Wave). Escapa das restrições de background do Android 12+."
+  "versionCode": 74,
+  "versionName": "0.2.16",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.16/app-release.apk",
+  "notes": "Nova tela: Telefones de emergência (Ajustes → Central). Configura os números que a central liga em disparo."
 }
