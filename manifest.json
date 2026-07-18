@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "0.2.11",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.11/app-release.apk",
-  "notes": "AlarmManager nativo ressuscita o serviço a cada 15min. Sobrevive a Samsung Doze."
+  "versionCode": 70,
+  "versionName": "0.2.12",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.12/app-release.apk",
+  "notes": "KeepAlive instrumentado. Log agora mostra [K] com cada disparo do AlarmManager."
 }
