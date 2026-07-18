@@ -1,6 +1,6 @@
 {
-  "versionCode": 74,
-  "versionName": "0.2.16",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.16/app-release.apk",
-  "notes": "Nova tela: Telefones de emergência (Ajustes → Central). Configura os números que a central liga em disparo."
+  "versionCode": 75,
+  "versionName": "0.2.17",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.17/app-release.apk",
+  "notes": "Sensores em abas: Detectores | Controles (separados por sub_class)."
 }
