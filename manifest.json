@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "0.2.21",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.21/app-release.apk",
-  "notes": "Aba Remote mostra controles pareados (decifrado formato opcode 04)."
+  "versionCode": 80,
+  "versionName": "0.2.22",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.22/app-release.apk",
+  "notes": "Fix: remotes agora aparecem corretamente na aba Remote."
 }
