@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "0.2.18",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.18/app-release.apk",
-  "notes": "Sensores em 3 abas: Remote | Sensor | Alarm socket (mesmo layout do Smart Life)."
+  "versionCode": 77,
+  "versionName": "0.2.19",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.19/app-release.apk",
+  "notes": "Call unit sem toggle: se cadastrou, a central liga. Interface mais simples."
 }
