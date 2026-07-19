@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "versionName": "0.2.22",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.22/app-release.apk",
-  "notes": "Fix: remotes agora aparecem corretamente na aba Remote."
+  "versionCode": 81,
+  "versionName": "0.2.23",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.23/app-release.apk",
+  "notes": "Aba Remote lista todos os controles (Controle 01, 02, etc)."
 }
