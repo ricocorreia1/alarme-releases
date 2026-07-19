@@ -1,6 +1,6 @@
 {
-  "versionCode": 81,
-  "versionName": "0.2.23",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.23/app-release.apk",
-  "notes": "Aba Remote lista todos os controles (Controle 01, 02, etc)."
+  "versionCode": 82,
+  "versionName": "0.2.24",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.24/app-release.apk",
+  "notes": "Toque num sensor ou controle pra editar o nome."
 }
