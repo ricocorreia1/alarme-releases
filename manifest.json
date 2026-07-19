@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "0.2.17",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.17/app-release.apk",
-  "notes": "Sensores em abas: Detectores | Controles (separados por sub_class)."
+  "versionCode": 76,
+  "versionName": "0.2.18",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.18/app-release.apk",
+  "notes": "Sensores em 3 abas: Remote | Sensor | Alarm socket (mesmo layout do Smart Life)."
 }
