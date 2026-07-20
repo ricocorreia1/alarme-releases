@@ -1,6 +1,6 @@
 {
-  "versionCode": 82,
-  "versionName": "0.2.24",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.24/app-release.apk",
-  "notes": "Toque num sensor ou controle pra editar o nome."
+  "versionCode": 83,
+  "versionName": "0.2.25",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.25/app-release.apk",
+  "notes": "Otimização de bateria: MQTT keepalive maior + wake lock off."
 }
