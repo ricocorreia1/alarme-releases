@@ -1,6 +1,6 @@
 {
-  "versionCode": 83,
-  "versionName": "0.2.25",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.25/app-release.apk",
-  "notes": "Otimização de bateria: MQTT keepalive maior + wake lock off."
+  "versionCode": 84,
+  "versionName": "0.2.26",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.26/app-release.apk",
+  "notes": "Menos ativações: heartbeat 60s removido + polling 5min→15min."
 }
