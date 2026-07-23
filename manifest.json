@@ -1,6 +1,6 @@
 {
-  "versionCode": 87,
-  "versionName": "0.2.29",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.29/app-release.apk",
-  "notes": "Botão SILENCIAR sirene direto na tela do alarme."
+  "versionCode": 88,
+  "versionName": "0.2.30",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.30/app-release.apk",
+  "notes": "Fix Xiaomi MIUI: keepalive adaptativo + reconnect com backoff."
 }
