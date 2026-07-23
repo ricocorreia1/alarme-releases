@@ -1,6 +1,6 @@
 {
-  "versionCode": 85,
-  "versionName": "0.2.27",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.27/app-release.apk",
-  "notes": "MQTT autoReconnect + tick 15min→60min. Ícone visível = MQTT vivo."
+  "versionCode": 86,
+  "versionName": "0.2.28",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.28/app-release.apk",
+  "notes": "Ao abrir o app, ressuscita o monitoramento se Android tiver matado."
 }
