@@ -1,6 +1,6 @@
 {
-  "versionCode": 88,
-  "versionName": "0.2.30",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.30/app-release.apk",
-  "notes": "Fix Xiaomi MIUI: keepalive adaptativo + reconnect com backoff."
+  "versionCode": 89,
+  "versionName": "0.2.31",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.31/app-release.apk",
+  "notes": "Fix Xiaomi: refresh após reconnect pra pegar eventos perdidos."
 }
