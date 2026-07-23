@@ -1,6 +1,6 @@
 {
-  "versionCode": 86,
-  "versionName": "0.2.28",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.28/app-release.apk",
-  "notes": "Ao abrir o app, ressuscita o monitoramento se Android tiver matado."
+  "versionCode": 87,
+  "versionName": "0.2.29",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.29/app-release.apk",
+  "notes": "Botão SILENCIAR sirene direto na tela do alarme."
 }
