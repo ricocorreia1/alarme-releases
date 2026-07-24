@@ -1,6 +1,6 @@
 {
-  "versionCode": 90,
-  "versionName": "0.2.32",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.32/app-release.apk",
-  "notes": "Central offline: notificação + vibração longa quando a central perde internet. MQTT já detecta o evento em tempo real; tick HTTP como fallback."
+  "versionCode": 91,
+  "versionName": "0.2.33",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.33/app-release.apk",
+  "notes": "Banner visual quando central fica offline: tela principal + aba Central mostram aviso laranja."
 }
