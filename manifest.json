@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "0.2.34",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.34/app-release.apk",
-  "sha256": "8a006c06300d7d7671b5187285813c30c8c02056a49f892ea3b760b7ccb7e4ef",
-  "notes": "Menos bateria, PIN ao voltar pro app e pra desarmar pela notificação, tema claro completo e ajustes de layout."
+  "versionCode": 96,
+  "versionName": "0.2.38",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.38/app-release.apk",
+  "sha256": "315cf64bc6cee549fbda1ff921da69642505a875ec2d1c76a37859ef5280f198",
+  "notes": "Novo login pela conta Smart Life (User Code + QR). Depois de atualizar, conecte de novo. Sensores direto da central e menos bateria."
 }
