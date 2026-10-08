@@ -1,7 +1,7 @@
 {
-  "versionCode": 98,
-  "versionName": "0.2.40",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.40/app-release.apk",
-  "sha256": "f8797fcbb681756e89f6e1afd2e8a5f19699194e899fe4d82ca21ddf06af4f69",
-  "notes": "Energia só alerta com alarme armado; sensores da conta na tela principal; condição 'Rede de casa' nas automações."
+  "versionCode": 99,
+  "versionName": "0.2.41",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.41/app-release.apk",
+  "sha256": "c3890e7996ecdd8d8d0571d2a6966b2a8fd263d8353e7c2f9174cf54b76f9e00",
+  "notes": "Notificação de monitoramento volta sozinha se for arrastada para fora ou limpa."
 }
