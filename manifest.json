@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
-  "versionName": "0.2.41",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.41/app-release.apk",
-  "sha256": "c3890e7996ecdd8d8d0571d2a6966b2a8fd263d8353e7c2f9174cf54b76f9e00",
-  "notes": "Notificação de monitoramento volta sozinha se for arrastada para fora ou limpa."
+  "versionCode": 100,
+  "versionName": "0.2.42",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.42/app-release.apk",
+  "sha256": "94b64af8f42b422cec4d9efd4c7c45286249e72f496ebe9d9b617a23db391b47",
+  "notes": "Notificação mostra 'tempo real' assim que a conexão sobe, inclusive após reiniciar o celular."
 }
