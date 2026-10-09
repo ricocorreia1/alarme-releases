@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "0.2.43",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.43/app-release.apk",
-  "sha256": "37a99c8da284c118612e84cc50667129ebe5da9994142e00c4a573bd6e1020b8",
-  "notes": "Alçapão em painel próprio; alimentador com quantidade de porções; ações só usam localização quando o horário já bateu."
+  "versionCode": 102,
+  "versionName": "0.2.44",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.44/app-release.apk",
+  "sha256": "0be7c6ee977dc52467f7894d505e229711a2bcfb429727bafa1031742827e00a",
+  "notes": "Sessão da Tuya não expira mais com o celular parado; botão Reconectar se expirar. Último sinal do sensor do Alçapão."
 }
