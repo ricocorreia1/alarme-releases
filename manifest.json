@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "0.2.42",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.42/app-release.apk",
-  "sha256": "94b64af8f42b422cec4d9efd4c7c45286249e72f496ebe9d9b617a23db391b47",
-  "notes": "Notificação mostra 'tempo real' assim que a conexão sobe, inclusive após reiniciar o celular."
+  "versionCode": 101,
+  "versionName": "0.2.43",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.43/app-release.apk",
+  "sha256": "37a99c8da284c118612e84cc50667129ebe5da9994142e00c4a573bd6e1020b8",
+  "notes": "Alçapão em painel próprio; alimentador com quantidade de porções; ações só usam localização quando o horário já bateu."
 }
