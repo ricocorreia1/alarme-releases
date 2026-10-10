@@ -1,7 +1,7 @@
 {
-  "versionCode": 104,
-  "versionName": "0.2.46",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.46/app-release.apk",
-  "sha256": "09e98d617f41b14eabdd5de375f1a0e11e555da4c282f414b891cc3a4c169e62",
-  "notes": "Automação confere e tenta de novo (5x a cada 30s), avisando com o motivo se falhar. Log com data e filtro por período."
+  "versionCode": 106,
+  "versionName": "0.2.48",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.48/app-release.apk",
+  "sha256": "eb3ef97ad0aec10a353158773ea9459c07c2ce6ea70d4a3a986f238de1335bda",
+  "notes": "Corrige travamento ao reiniciar/atualizar (derrubava o monitoramento). Ícone novo. Automações no horário exato, sem aviso falso."
 }
