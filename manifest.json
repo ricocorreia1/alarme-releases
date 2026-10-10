@@ -1,7 +1,7 @@
 {
-  "versionCode": 102,
-  "versionName": "0.2.44",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.44/app-release.apk",
-  "sha256": "0be7c6ee977dc52467f7894d505e229711a2bcfb429727bafa1031742827e00a",
-  "notes": "Sessão da Tuya não expira mais com o celular parado; botão Reconectar se expirar. Último sinal do sensor do Alçapão."
+  "versionCode": 104,
+  "versionName": "0.2.46",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.46/app-release.apk",
+  "sha256": "09e98d617f41b14eabdd5de375f1a0e11e555da4c282f414b891cc3a4c169e62",
+  "notes": "Automação confere e tenta de novo (5x a cada 30s), avisando com o motivo se falhar. Log com data e filtro por período."
 }
