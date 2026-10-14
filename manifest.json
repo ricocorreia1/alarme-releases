@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "0.2.49",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.49/app-release.apk",
-  "sha256": "af30b1f77c586b55e480a74d42f580ffeecf4352bc63c8073a201e2a9fcc4818",
-  "notes": "Ícone do app bem enquadrado."
+  "versionCode": 108,
+  "versionName": "0.2.50",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.50/app-release.apk",
+  "sha256": "870e89a7bcf8761ed94258662ed2f99c0c91be0a21944bc242131b1436b25155",
+  "notes": "Notificações com símbolo e cor de cada estado. Sem aviso falso de 'outra fonte'."
 }
