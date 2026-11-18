@@ -1,7 +1,7 @@
 {
-  "versionCode": 109,
-  "versionName": "0.2.51",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.51/app-release.apk",
-  "sha256": "a4a78c865b043a458693c5c621450d991263938d5705f450ca241c0ac90f9d38",
-  "notes": "Volta da energia não dispara a sirene fora do modo armado."
+  "versionCode": 110,
+  "versionName": "0.2.52",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.52/app-release.apk",
+  "sha256": "c8ca5af5504288bdd948906915da557e6b87d6e226f6b1bb6b97b656cb80649a",
+  "notes": "Automação manda uma notificação só, com gatilho e execução."
 }
