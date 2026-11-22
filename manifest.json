@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "0.2.52",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.52/app-release.apk",
-  "sha256": "c8ca5af5504288bdd948906915da557e6b87d6e226f6b1bb6b97b656cb80649a",
-  "notes": "Automação manda uma notificação só, com gatilho e execução."
+  "versionCode": 111,
+  "versionName": "0.2.53",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.53/app-release.apk",
+  "sha256": "95bb2944f3aba5968f50f65526ae314f38fbb1de2aee5733dfa535e6616224ff",
+  "notes": "Correções de segurança: desarmar pela notificação pede confirmação própria, sair da conta desliga o serviço e limpa tudo, OTA mais seguro e automação por localização só com posição recente."
 }
