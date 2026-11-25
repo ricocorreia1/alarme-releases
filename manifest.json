@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "0.2.53",
-  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.53/app-release.apk",
-  "sha256": "95bb2944f3aba5968f50f65526ae314f38fbb1de2aee5733dfa535e6616224ff",
-  "notes": "Correções de segurança: desarmar pela notificação pede confirmação própria, sair da conta desliga o serviço e limpa tudo, OTA mais seguro e automação por localização só com posição recente."
+  "versionCode": 112,
+  "versionName": "0.2.54",
+  "url": "https://github.com/ricocorreia1/alarme-releases/releases/download/v0.2.54/app-release.apk",
+  "sha256": "f797c1480c94a175009dab4a5436ea0f38556779c49e355d1a1fb68a369ec5dc",
+  "notes": "Aviso de bateria fraca da central agora só notifica: sem sirene, sem vibração longa, em qualquer modo."
 }
